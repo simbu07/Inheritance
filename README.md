@@ -1,4 +1,5 @@
-## HIERARCHICAL INHERITANCE
+## Ex-8 HIERARCHICAL INHERITANCE
+### Date:23/5/2023
 ### AIM:
 To write a C# program to print some messages using hierarchical inheritance
 
